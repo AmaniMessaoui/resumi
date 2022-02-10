@@ -47,7 +47,7 @@ function Header() {
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
         />
 
-        <TextField
+        {/* <TextField
           id="outlined-basic"
           label="City"
           name="city"
@@ -56,8 +56,8 @@ function Header() {
           inputRef={register}
           onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
-        />
-
+        /> */}
+{/* 
         <TextField
           id="outlined-basic"
           label="State"
@@ -67,9 +67,9 @@ function Header() {
           inputRef={register}
           onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
-        />
+        /> */}
 
-        <TextField
+        {/* <TextField
           id="outlined-basic"
           label="Zip Code"
           name="zip"
@@ -78,7 +78,7 @@ function Header() {
           inputRef={register}
           onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
-        />
+        /> */}
 
         <TextField
           id="outlined-basic"
@@ -102,7 +102,7 @@ function Header() {
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
         />
 
-        <TextField
+        {/* <TextField
           id="outlined-multiline-static"
           label="Summary"
           name="summary"
@@ -118,7 +118,7 @@ function Header() {
             marginLeft: 8,
             marginRight: 8,
           }}
-        />
+        /> */}
         {/* <Button
           variant="contained"
           color="secondary"

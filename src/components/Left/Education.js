@@ -38,7 +38,7 @@ function Education() {
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
         />
 
-        <TextField
+        {/* <TextField
           id="outlined-basic"
           label="City, State, Country"
           name="city"
@@ -47,7 +47,7 @@ function Education() {
           inputRef={register}
           // onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
-        />
+        /> */}
 
         <TextField
           id="outlined-basic"
@@ -71,7 +71,7 @@ function Education() {
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
         />
 
-        <TextField
+        {/* <TextField
           id="outlined-basic"
           label="Additional Info"
           name="additional"
@@ -80,7 +80,7 @@ function Education() {
           inputRef={register}
           // onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
-        />
+        /> */}
 
         <Button
           variant="contained"

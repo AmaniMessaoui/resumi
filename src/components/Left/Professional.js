@@ -38,7 +38,7 @@ function Professional() {
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
         />
 
-        <TextField
+        {/* <TextField
           id="outlined-basic"
           label="City, State, Country"
           name="local1"
@@ -47,7 +47,7 @@ function Professional() {
           inputRef={register}
           // onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
-        />
+        /> */}
 
         <TextField
           id="outlined-basic"
@@ -92,7 +92,7 @@ function Professional() {
           // onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
         />
-        <TextField
+        {/* <TextField
           id="outlined-basic"
           label="Description"
           name="desc1[1]"
@@ -116,7 +116,7 @@ function Professional() {
             marginRight: 8,
             marginBottom: 15,
           }}
-        />
+        /> */}
 
         <hr />
 
@@ -133,7 +133,7 @@ function Professional() {
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
         />
 
-        <TextField
+        {/* <TextField
           id="outlined-basic"
           label="City, State, Country"
           name="local2"
@@ -142,7 +142,7 @@ function Professional() {
           inputRef={register}
           // onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
-        />
+        /> */}
 
         <TextField
           id="outlined-basic"
@@ -187,7 +187,7 @@ function Professional() {
           // onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
         />
-        <TextField
+        {/* <TextField
           id="outlined-basic"
           label="Description"
           name="desc2[1]"
@@ -206,7 +206,7 @@ function Professional() {
           inputRef={register}
           // onChange={handleSubmit(onSubmit)}
           style={{ marginTop: 12, marginLeft: 8, marginRight: 8 }}
-        />
+        /> */}
 
         <Button
           variant="contained"
